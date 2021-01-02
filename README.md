@@ -8,7 +8,7 @@
 - CKA(Certified Kubernetes Administrator) 취득
 
 ### How-To
-- Study #1 : https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/
+- Study #1 : https://github.com/whatwant-school/cka-udemy
 - Study #2 : https://trainingportal.linuxfoundation.org/learn/course/kubernetes-fundamentals-lfs258
 
 
