@@ -60,6 +60,7 @@ Today better than yesterday, tomorrow better than today
 
 ### How-To
 - Flutter 이용하여 BT-Printer App 개발
+- https://github.com/what-want/daily-print
 
 
 
