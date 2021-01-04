@@ -1,6 +1,5 @@
-# whatwant-2021
-2021 Resolution
-
+# 2021 Resolution
+Today better than yesterday, tomorrow better than today
 
 ## 1. Kubernetes Expert
 
