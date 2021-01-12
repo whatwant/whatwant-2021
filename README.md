@@ -90,5 +90,11 @@ Today better than yesterday, tomorrow better than today
 - 동탄 Article Collector publish (광고글 제거)
 
 ### Study
-- Study #1 : https://github.com/whatwant-school/alone-ml-dl
-
+- Study #1 : 혼자 공부하는 머신러닝+딥러닝
+  - Howto: 저자 직강 F/U
+  - Date: 2020.12.18 ~ (매주 화/금 22:00~)
+  - Record: https://github.com/whatwant-school/alone-ml-dl
+- Study #2 : 
+  - Howto: 풀잎스쿨 14기 - 혼자 읽기 두껍네 '파이썬 머신러닝 완벽 가이드
+  - Date: 2021.01.07 ~ (매주 목 19:30~)
+  - Record: https://github.com/whatwant-school/flipped-14th-python-ml
