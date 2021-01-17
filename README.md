@@ -98,3 +98,12 @@ Today better than yesterday, tomorrow better than today
   - Howto: 풀잎스쿨 14기 - 혼자 읽기 두껍네 '파이썬 머신러닝 완벽 가이드
   - Date: 2021.01.07 ~ (매주 목 19:30~)
   - Record: https://github.com/whatwant-school/flipped-14th-python-ml
+
+## 10. Maker
+
+### Goal
+- Mobile Application Deployment
+
+### How-To
+- BSide 5th : 비사이드 5기 참여
+  - Notion : https://www.notion.so/5-b1a2ba4d03c7432eaf11ddea8c02fbf0
