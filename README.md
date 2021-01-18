@@ -7,8 +7,8 @@ Today better than yesterday, tomorrow better than today
 - CKA(Certified Kubernetes Administrator) 취득
 
 ### How-To
-- Study #1 : https://github.com/whatwant-school/cka-udemy
-- Study #2 : https://trainingportal.linuxfoundation.org/learn/course/kubernetes-fundamentals-lfs258
+- Study #1 : Udemy 강좌 - https://github.com/whatwant-school/cka-udemy
+- Study #2 : LinuxFoundation 강좌 - https://github.com/whatwant-school/cka-lfs
 
 
 
