@@ -11,6 +11,8 @@ Today better than yesterday, tomorrow better than today
 - Study #2 : LinuxFoundation 강좌 - https://github.com/whatwant-school/cka-lfs
 - Study #3 : QwikLab 강좌 - https://google.qwiklabs.com/
 
+### Reference
+- [CKA 도전 후기와 스포 없는 팁 공유](https://jonnung.dev/kubernetes/2020/08/24/cka-challenge-and-spoiler-free-tips/)
 
 
 ## 2. Quant Trader
