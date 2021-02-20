@@ -76,7 +76,9 @@ Today better than yesterday, tomorrow better than today
 - under 70kg 1달 이상 유지
 
 ### How-To
-- ///
+- Push-Up 시작 (2021-02-19)
+  - 01 day (02/19) : 10개
+  - 02 day (02/20) : 6개 + 2개 (어깨 연결된 가슴 부위 근육통... ㅠㅠ)
 
 ---
 
