@@ -132,3 +132,4 @@ Today better than yesterday, tomorrow better than today
 1. [[제이펍] 파이썬으로 배우는 게임 개발 입문편](https://www.whatwant.com/entry/제이펍-파이썬으로-배우는-게임-개발-입문편)
 1. [[제이펍] 15단계로 배우는 도커와 쿠버네티스](https://www.whatwant.com/entry/제이펍-15단계로-배우는-도커와-쿠버네티스)
 1. [[제이펍] R을 이용한 퀀트 투자 포트폴리오 만들기 (개정판)](https://www.whatwant.com/entry/제이펍-R을-이용한-퀀트-투자-포트폴리오-만들기-개정판)
+1. [[한빛미디어] 비즈니스 머신러닝](https://www.whatwant.com/entry/한빛미디어-비즈니스-머신러닝)
