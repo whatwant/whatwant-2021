@@ -1,6 +1,8 @@
 # 2021 Resolution
 Today better than yesterday, tomorrow better than today
 
+---
+
 ## 1. Kubernetes Expert
 
 ### Goal
@@ -14,6 +16,7 @@ Today better than yesterday, tomorrow better than today
 ### Reference
 - [CKA 도전 후기와 스포 없는 팁 공유](https://jonnung.dev/kubernetes/2020/08/24/cka-challenge-and-spoiler-free-tips/)
 
+---
 
 ## 2. Quant Trader
 
@@ -24,7 +27,7 @@ Today better than yesterday, tomorrow better than today
 - Study : https://github.com/whatwant-school/dl-trading
 - Coding : ///
 
-
+---
 
 ## 3. English Man
 
@@ -34,7 +37,7 @@ Today better than yesterday, tomorrow better than today
 ### How-To
 - Daily Self-Study
 
-
+---
 
 ## 4. Best-Reviewer
 
@@ -44,7 +47,7 @@ Today better than yesterday, tomorrow better than today
 ### How-To
 - 입과
 
-
+---
 
 ## 5. Contributor
 
@@ -54,7 +57,7 @@ Today better than yesterday, tomorrow better than today
 ### How-To
 - ///
 
-
+---
 
 ## 6. Android App Developer
 
@@ -65,7 +68,7 @@ Today better than yesterday, tomorrow better than today
 - Flutter 이용하여 BT-Printer App 개발
 - https://github.com/what-want/daily-print
 
-
+---
 
 ## 7. Healthy Man
 
@@ -75,7 +78,7 @@ Today better than yesterday, tomorrow better than today
 ### How-To
 - ///
 
-
+---
 
 ## 8. Teacher/Instructor/Lecture/Facilitator
 
@@ -85,7 +88,7 @@ Today better than yesterday, tomorrow better than today
 ### How-To
 - https://home.modulabs.co.kr/facil-apply/
 
-
+---
 
 ## 9. ML Engineer/Developer
 
@@ -102,6 +105,8 @@ Today better than yesterday, tomorrow better than today
   - Date: 2021.01.07 ~ (매주 목 19:30~)
   - Record: https://github.com/whatwant-school/flipped-14th-python-ml
 
+---
+
 ## 10. Maker
 
 ### Goal
@@ -113,3 +118,16 @@ Today better than yesterday, tomorrow better than today
   - Figma : https://www.figma.com/file/bZub71fhR5bZHxb1yE9iEx/비사이드5기-1팀?node-id=9%3A8
 - Flutter Study
   - https://github.com/whatwant-school/flutter-study
+
+---
+
+## 11. Book Reviewer
+
+### Goal
+- 1 book review / month
+
+### Result
+
+1. [[제이펍] 그림으로 공부하는 IT 인프라 구조(개정판)](https://whatwant.tistory.com/entry/제이펍-그림으로-공부하는-IT-인프라-구조개정판)
+1. [[제이펍] 파이썬으로 배우는 게임 개발 입문편](https://whatwant.tistory.com/entry/제이펍-파이썬으로-배우는-게임-개발-입문편)
+1. [[제이펍] 15단계로 배우는 도커와 쿠버네티스](https://whatwant.tistory.com/entry/제이펍-15단계로-배우는-도커와-쿠버네티스)
