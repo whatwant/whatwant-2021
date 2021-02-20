@@ -77,8 +77,15 @@ Today better than yesterday, tomorrow better than today
 
 ### How-To
 - Push-Up 시작 (2021-02-19)
-  - 01 day (02/19) : 10개
-  - 02 day (02/20) : 6개 + 2개 (어깨 연결된 가슴 부위 근육통... ㅠㅠ)
+
+<details markdown="1">
+<summary>Push-Up History</summary>
+
+    - 01 day (02/19) : 10개
+    - 02 day (02/20) : 6개 + 2개 (어깨 연결된 가슴 부위 근육통... ㅠㅠ)
+
+</details>
+
 
 ---
 
