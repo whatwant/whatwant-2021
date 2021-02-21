@@ -125,6 +125,7 @@ Today better than yesterday, tomorrow better than today
 - BSide 5th : 비사이드 5기 참여
   - Notion : https://www.notion.so/5-b1a2ba4d03c7432eaf11ddea8c02fbf0
   - Figma : https://www.figma.com/file/bZub71fhR5bZHxb1yE9iEx/비사이드5기-1팀?node-id=9%3A8
+  - GitHub : https://github.com/bsideproject/onlyone-flutter
 - Flutter Study
   - https://github.com/whatwant-school/flutter-study
 
