@@ -83,6 +83,8 @@ Today better than yesterday, tomorrow better than today
 
     - 01 day (02/19) : 10개
     - 02 day (02/20) : 6개 + 2개 (어깨 연결된 가슴 부위 근육통... ㅠㅠ)
+    - 03 day (02/21) : 5개 + 5개
+    - 04 day (02/22) : 5개 + 3개 + 3개
 
 </details>
 
