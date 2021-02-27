@@ -87,6 +87,7 @@ Today better than yesterday, tomorrow better than today
     - 04 day (02/22) : 11 = 5개 + 3개 + 3개
     - 05 day (02/24) : 15 = 5개 + 5개 + 5개
     - 06 day (02/25) : 15 = 5개 + 5개 + 5개
+    - 07 day (02/27) : 17 = 5개 + 5개 + 5개 + 2개
 
 </details>
 
